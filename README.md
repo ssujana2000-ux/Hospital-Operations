@@ -1,24 +1,17 @@
 # Hospital-Operations
 
 Power BI dashboard analyzing Hospital operations and workforce management.
-
 https://www.kaggle.com/datasets/jaderz/hospital-beds-management
 
 📁 Project Structure
 
 data/
-
 patients.csv
-
 services_weekly.csv
-
 staff.csv
-
 staff_schedule.csv
 
-
 dashboard/
-
 Hospital Operations Dashboard.pbix
 
 README.md
@@ -30,6 +23,7 @@ README.md
 
 This Power BI project analyzes hospital operations including weekly patient admissions, bed availability, service-level satisfaction, staff availability across services to optimize resource allocation and improve patient care operations.
 The dashboard is designed to help stakeholders identify:
+
 •	Capacity bottlenecks
 •	Staffing pressure points
 •	Service-level performance gaps
